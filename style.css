@@ -1,0 +1,51 @@
+body {
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.greenbar {
+    background-color: rgb(41, 105, 201);
+    display: block;
+    height: 70px;
+    align-items: center;
+}
+
+
+.nametag-card {
+    background-color: rgb(241, 241, 241);
+    width: 400px;
+    height: 330px;
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 5px;
+    border-color: lightgray;
+}
+
+img {
+    height: 57px;
+    padding: 2.3em;
+    margin-left: -4px;
+    border-width: 1px;
+    border-radius: 50%;
+    border-color: black;
+
+}
+
+.info {
+    padding-left: 2em;
+    padding-top: 1.5em;
+}
+
+.edit-profile {
+    font-size: 13px;
+    text-decoration: underline;
+}
+
+.colums {
+    display: block;
+}
+
+
+
